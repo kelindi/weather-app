@@ -1,4 +1,4 @@
-## Weather-App
+## weather-app
 A weather app that shows the weather in the desired city
 
 ## What I Learned
