@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/WeatherApp/static/css/main.d9237e8f.chunk.css",
-    "main.js": "/WeatherApp/static/js/main.b30d0dab.chunk.js",
-    "main.js.map": "/WeatherApp/static/js/main.b30d0dab.chunk.js.map",
-    "runtime-main.js": "/WeatherApp/static/js/runtime-main.f27e0246.js",
-    "runtime-main.js.map": "/WeatherApp/static/js/runtime-main.f27e0246.js.map",
-    "static/js/2.1cdc05c1.chunk.js": "/WeatherApp/static/js/2.1cdc05c1.chunk.js",
-    "static/js/2.1cdc05c1.chunk.js.map": "/WeatherApp/static/js/2.1cdc05c1.chunk.js.map",
-    "index.html": "/WeatherApp/index.html",
-    "precache-manifest.f1c68744c3a168ab91d9c06392dca129.js": "/WeatherApp/precache-manifest.f1c68744c3a168ab91d9c06392dca129.js",
-    "service-worker.js": "/WeatherApp/service-worker.js",
-    "static/css/main.d9237e8f.chunk.css.map": "/WeatherApp/static/css/main.d9237e8f.chunk.css.map",
-    "static/js/2.1cdc05c1.chunk.js.LICENSE.txt": "/WeatherApp/static/js/2.1cdc05c1.chunk.js.LICENSE.txt"
+    "main.css": "/weather-app/static/css/main.d9237e8f.chunk.css",
+    "main.js": "/weather-app/static/js/main.123a2777.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.123a2777.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.ff53a29c.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.ff53a29c.js.map",
+    "static/js/2.1cdc05c1.chunk.js": "/weather-app/static/js/2.1cdc05c1.chunk.js",
+    "static/js/2.1cdc05c1.chunk.js.map": "/weather-app/static/js/2.1cdc05c1.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "precache-manifest.46e1d184356123ab0170a8ca29fad5d5.js": "/weather-app/precache-manifest.46e1d184356123ab0170a8ca29fad5d5.js",
+    "service-worker.js": "/weather-app/service-worker.js",
+    "static/css/main.d9237e8f.chunk.css.map": "/weather-app/static/css/main.d9237e8f.chunk.css.map",
+    "static/js/2.1cdc05c1.chunk.js.LICENSE.txt": "/weather-app/static/js/2.1cdc05c1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f27e0246.js",
+    "static/js/runtime-main.ff53a29c.js",
     "static/js/2.1cdc05c1.chunk.js",
     "static/css/main.d9237e8f.chunk.css",
-    "static/js/main.b30d0dab.chunk.js"
+    "static/js/main.123a2777.chunk.js"
   ]
 }
